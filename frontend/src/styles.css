@@ -1,0 +1,78 @@
+body {
+    font-family: Arial;
+    margin: 0;
+   
+    background: url('https://images.unsplash.com/photo-1662027044921-6febc57a0c53?q=80&w=2062&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:top 90px right 0px;
+}
+
+nav {
+    background: #111827;
+    color: #fff;
+    padding: 12px
+}
+
+nav a {
+    color: #fff;
+    margin-right: 12px;
+    text-decoration: none
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse
+}
+
+th,
+td {
+    border: 1px solid #e5e7eb;
+    padding: 8px
+}
+
+.button {
+    background: #2563eb;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    text-decoration: none;
+    border-radius: 4px
+}
+
+.Edit_Act_btn {
+    background: #10b981;
+    color: #fff;
+    border: none;
+    padding: 6px 20px;
+    text-decoration: none;
+    border-radius: 10px
+}
+
+.Delete_Act_btn {
+    background: #ef4444;
+    color: #fff;
+    border: none;
+    padding: 6px 20px;
+    margin-left: 10px;
+    text-decoration: none;
+    border-radius: 10px
+}
+
+#first_btn, #prev_btn, #next_btn, #last_btn {
+   
+    border: none;
+    padding: 8px 12px;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-right: 8px;
+}
+
+.size_btn {
+  
+    border: none;
+    padding: 4px 8px;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-left: 8px;
+}
